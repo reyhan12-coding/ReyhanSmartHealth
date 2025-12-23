@@ -6,6 +6,39 @@ Aplikasi kesehatan cerdas berbasis AI untuk transformasi layanan kesehatan denga
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3.6-06B6D4)
 ![Supabase](https://img.shields.io/badge/Supabase-2.39.0-3ECF8E)
 
+---
+
+## 🌐 Live Demo
+Cobalah aplikasi ini secara langsung:
+
+### 🧠 Catatan untuk Reviewer
+Fitur Wawasan AI akan aktif secara optimal setelah minimal **3 data kesehatan** dimasukkan.  
+Hal ini karena sistem menganalisis **pola dan tren**, bukan satu data tunggal, demi menjaga akurasi dan etika penggunaan AI.
+
+
+### 👉 [KLIK DISINI UNTUK MEMBUKA WEBSITE](https://reyhanarrafifathalla-smart-health.vercel.app/)
+
+---
+
+## 📸 Tampilan Aplikasi
+
+### 🏠 Dashboard & Ringkasan Kesehatan
+![Dashboard](screenshots/dashboard.png)
+
+### 🧠 Wawasan AI & Analisis Pola
+![AI Insight](screenshots/ai-insight.png)
+
+### 📝 Input Data Kesehatan Harian
+![Health Form](screenshots/health-form.png)
+
+### 📭 Empty State untuk Pengguna Baru
+![Empty State](screenshots/empty-state.png)
+
+### 🔐 Keamanan Data Pengguna (RLS)
+![RLS Proof](screenshots/security-rls.png)
+
+---
+
 ## 🌟 Fitur Utama
 
 ### ✅ Autentikasi Pengguna
