@@ -6,6 +6,51 @@ Aplikasi kesehatan cerdas berbasis AI untuk transformasi layanan kesehatan denga
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3.6-06B6D4)
 ![Supabase](https://img.shields.io/badge/Supabase-2.39.0-3ECF8E)
 
+---
+
+## 🌐 Live Demo
+Cobalah aplikasi ini secara langsung:
+
+### 🧠 Catatan untuk Reviewer
+Fitur Wawasan AI akan aktif secara optimal setelah minimal **3 data kesehatan** dimasukkan.  
+Hal ini karena sistem menganalisis **pola dan tren**, bukan satu data tunggal, demi menjaga akurasi dan etika penggunaan AI.
+
+
+### 👉 [KLIK DISINI UNTUK MEMBUKA WEBSITE](https://reyhanarrafifathalla-smart-health.vercel.app/)
+
+---
+
+## 📸 Tampilan Aplikasi
+
+### 🔐 Register & Login
+
+| **Register** | **Login** |
+| :---: | :---: |
+| ![Register Page](https://github.com/user-attachments/assets/3172285f-43bf-405b-93a3-a64137cb95db) | ![Login Page](https://github.com/user-attachments/assets/03bae032-e02a-42d0-9f18-f6f80411f8e0)
+
+
+### 🏠 Dashboard & Ringkasan Kesehatan
+
+| **Dashboard & Ringkasan Kesehatan** | |
+| :---: | :---: |
+| ![Dashboard & Ringkasan Kesehatan](https://github.com/user-attachments/assets/c4eb8550-b30f-40a6-90d6-c3e80be18a45) | |
+
+
+
+### 🧠 Wawasan AI & Analisis Pola
+![AI Insight](screenshots/ai-insight.png)
+
+### 📝 Input Data Kesehatan Harian
+![Health Form](screenshots/health-form.png)
+
+### 📭 Empty State untuk Pengguna Baru
+![Empty State](screenshots/empty-state.png)
+
+### 🔐 Keamanan Data Pengguna (RLS)
+![RLS Proof](screenshots/security-rls.png)
+
+---
+
 ## 🌟 Fitur Utama
 
 ### ✅ Autentikasi Pengguna
