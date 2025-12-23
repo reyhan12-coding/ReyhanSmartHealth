@@ -30,8 +30,12 @@ Hal ini karena sistem menganalisis **pola dan tren**, bukan satu data tunggal, d
 
 
 ### 🏠 Dashboard & Ringkasan Kesehatan
+
+| **Dashboard & Ringkasan Kesehatan** | |
 | :---: | :---: |
-| ![Dashboard](https://github.com/user-attachments/assets/c4eb8550-b30f-40a6-90d6-c3e80be18a45) | |
+| ![Dashboard & Ringkasan Kesehatan](https://github.com/user-attachments/assets/c4eb8550-b30f-40a6-90d6-c3e80be18a45) | |
+
+
 
 ### 🧠 Wawasan AI & Analisis Pola
 ![AI Insight](screenshots/ai-insight.png)
