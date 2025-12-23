@@ -36,12 +36,23 @@ Hal ini karena sistem menganalisis **pola dan tren**, bukan satu data tunggal, d
 | ![Dashboard & Ringkasan Kesehatan](https://github.com/user-attachments/assets/c4eb8550-b30f-40a6-90d6-c3e80be18a45) | |
 
 
-
 ### 🧠 Wawasan AI & Analisis Pola
-![AI Insight](screenshots/ai-insight.png)
+
+| **Analisis Mendalam AI** | **Tren Kesehatan** | 
+| :---: | :---: |
+| ![Analisis Mendalam AI](https://github.com/user-attachments/assets/7a06e4ec-80b0-4ad3-b0cf-eeefe966f712) | ![Tren Kesehatan](https://github.com/user-attachments/assets/517d877f-00d7-4ab1-9eac-c38556c0c822) |
+
+| **Rekomendasi Personal** | |
+| :---: | :---: |
+| ![Rekomendasi Personal](https://github.com/user-attachments/assets/444013ab-355a-479f-923d-9fae139bc67b) | |
+
 
 ### 📝 Input Data Kesehatan Harian
 ![Health Form](screenshots/health-form.png)
+
+| **Rekomendasi Personal** | |
+| :---: | :---: |
+| ![Health Form](https://github.com/user-attachments/assets/444013ab-355a-479f-923d-9fae139bc67b) | |
 
 ### 📭 Empty State untuk Pengguna Baru
 ![Empty State](screenshots/empty-state.png)
