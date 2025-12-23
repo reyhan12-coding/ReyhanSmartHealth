@@ -29,9 +29,9 @@ Hal ini karena sistem menganalisis **pola dan tren**, bukan satu data tunggal, d
 | ![Register Page](https://github.com/user-attachments/assets/3172285f-43bf-405b-93a3-a64137cb95db) | ![Login Page](https://github.com/user-attachments/assets/03bae032-e02a-42d0-9f18-f6f80411f8e0)
 
 
-
 ### 🏠 Dashboard & Ringkasan Kesehatan
-![Dashboard](screenshots/dashboard.png)
+| :---: | :---: |
+| ![Dashboard](https://github.com/user-attachments/assets/c4eb8550-b30f-40a6-90d6-c3e80be18a45) | |
 
 ### 🧠 Wawasan AI & Analisis Pola
 ![AI Insight](screenshots/ai-insight.png)
