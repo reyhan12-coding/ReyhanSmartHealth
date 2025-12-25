@@ -48,14 +48,30 @@ Hal ini karena sistem menganalisis **pola dan tren**, bukan satu data tunggal, d
 
 
 ### 📝 Input Data Kesehatan Harian
-![Health Form](screenshots/health-form.png)
 
-| **Rekomendasi Personal** | |
+| **Form Data Kesehatan** | **Form Data Kesehatan** |
 | :---: | :---: |
-| ![Health Form](https://github.com/user-attachments/assets/444013ab-355a-479f-923d-9fae139bc67b) | |
+| ![Form](screenshots/formdata.png) | ![Form](screenshots/formdata1.png)
 
-### 📭 Empty State untuk Pengguna Baru
-![Empty State](screenshots/empty-state.png)
+
+### 💬 Chatbot Kesehatan 
+
+| **Health Chatbot** | |
+| :---: | :---: |
+| !![Health Chatbot](screenshots/chatbot.png) | |
+
+
+### 👤 Profil Pengguna
+
+| **User Profile** | |
+| :---: | :---: |
+| !![User Profile](screenshots/chatbot.png) | |
+
+### 📝 Input Data Kesehatan Harian
+
+| **Form Data Kesehatan** | **Form Data Kesehatan** |
+| :---: | :---: |
+| ![Form](screenshots/formdata.png) | ![Form](screenshots/formdata1.png)
 
 ### 🔐 Keamanan Data Pengguna (RLS)
 ![RLS Proof](screenshots/security-rls.png)
