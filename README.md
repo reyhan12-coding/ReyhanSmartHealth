@@ -65,7 +65,7 @@ Hal ini karena sistem menganalisis **pola dan tren**, bukan satu data tunggal, d
 
 | **User Profile** | |
 | :---: | :---: |
-| !![User Profile](screenshots/chatbot.png) | |
+| !![User Profile](screenshots/profile.png) | |
 
 ### 🔐 Keamanan Data Pengguna (RLS)
 
