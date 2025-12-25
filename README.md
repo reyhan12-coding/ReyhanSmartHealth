@@ -115,18 +115,6 @@ Analisis berbasis **rule-based AI** (tanpa API eksternal):
 - Tampilkan informasi akun
 - Privacy-first design
 
-### 🎨 UI/UX Modern
-- **Healthcare SaaS Design**: Clean, professional, dan modern
-- **Dark & Light Mode**: Toggle tema dengan smooth transition
-- **Gradient Themes**: Teal dan blue untuk nuansa kesehatan
-- **Smooth Animations**: Fade-in, slide-up, dan micro-interactions
-- **Responsive**: Mobile-first design
-
-### 🔒 Privacy & Security
-- Row-Level Security (RLS) di Supabase
-- Data hanya bisa diakses oleh pemiliknya
-- Disclaimer medis yang jelas di setiap halaman
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -139,10 +127,8 @@ Analisis berbasis **rule-based AI** (tanpa API eksternal):
 
 ### Backend
 - **Supabase** - Backend as a Service
-  - PostgreSQL database
   - Authentication
   - Row-Level Security
-  - Real-time subscriptions (opsional)
 
 ### AI Logic
 - **Internal Rule-Based System** - Pattern analysis & insights
@@ -158,7 +144,8 @@ Analisis berbasis **rule-based AI** (tanpa API eksternal):
 ### 1. Clone atau Extract Project
 
 ```bash
-cd reyhansmartHealth
+git clone https://github.com/reyhan12-coding/ReyhanSmartHealth
+cd reyhansmarthealth
 ```
 
 ### 2. Install Dependencies
@@ -293,35 +280,20 @@ reyhansmartHealth/
 - Semua analisis dilakukan di client-side
 - Akurat untuk trend detection dan lifestyle recommendations
 
-## 🚀 Future Enhancements (Optional)
-
-- [ ] Export data kesehatan ke PDF/CSV
-- [ ] Integrasi dengan wearable devices (Fitbit, Apple Watch)
-- [ ] Notifikasi reminder untuk input data harian
-- [ ] Goal setting & progress tracking
-- [ ] Social features (share progress dengan keluarga)
-- [ ] Multi-language support
-- [ ] PWA (Progressive Web App) untuk offline access
-- [ ] Advanced analytics dengan machine learning
-
-## 🤝 Contributing
-
-Jika Anda ingin berkontribusi:
-1. Fork repository ini
-2. Buat feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buat Pull Request
-
 ## 📝 License
 
 Project ini dibuat untuk tujuan pembelajaran dan demonstrasi.
 
-## 📧 Support
+## 👨‍💻 Tentang Pembuat
 
-Jika ada pertanyaan atau masalah:
-- Buat issue di repository
-- Email: support@reyhansmartHealth.com (contoh)
+Project ini dibuat oleh **Reyhan Arrafif Athalla**, mahasiswa Teknik Informatika Semester 5.
+
+Saya memiliki ketertarikan kuat pada **Software Engineering** dan **Web Development**. Project ini dibuat untuk melatih kemampuan saya dalam membangun aplikasi *Full Stack* yang siap produksi.
+
+Saat ini saya sedang mencari kesempatan **Magang (Internship)**.
+
+* 📧 **Email:** antnest15@gmail.com
+* 🐙 **GitHub:** [github.com/reyhan12-coding](https://github.com/reyhan12-coding)
 
 ---
 
