@@ -71,7 +71,7 @@ Hal ini karena sistem menganalisis **pola dan tren**, bukan satu data tunggal, d
 
 | **RLS Security** | **RLS Security** |
 | :---: | :---: |
-| ![Form](screenshots/rlsprivacy.png) | ![Form](rlsprivacy1.png)
+| ![RLS Security](screenshots/rlsprivacy.png) | ![RLS Security](screenshots/rlsprivacy1.png)
 
 ---
 
