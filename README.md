@@ -44,7 +44,7 @@ Hal ini karena sistem menganalisis **pola dan tren**, bukan satu data tunggal, d
 
 | **Rekomendasi Personal** | |
 | :---: | :---: |
-| ![Rekomendasi Personal](https://github.com/user-attachments/assets/444013ab-355a-479f-923d-9fae139bc67b) | |
+| ![Rekomendasi Personal](screenshots/rekomendasipersonal.png) | |
 
 
 ### 📝 Input Data Kesehatan Harian
@@ -67,14 +67,11 @@ Hal ini karena sistem menganalisis **pola dan tren**, bukan satu data tunggal, d
 | :---: | :---: |
 | !![User Profile](screenshots/chatbot.png) | |
 
-### 📝 Input Data Kesehatan Harian
-
-| **Form Data Kesehatan** | **Form Data Kesehatan** |
-| :---: | :---: |
-| ![Form](screenshots/formdata.png) | ![Form](screenshots/formdata1.png)
-
 ### 🔐 Keamanan Data Pengguna (RLS)
-![RLS Proof](screenshots/security-rls.png)
+
+| **RLS Security** | **RLS Security** |
+| :---: | :---: |
+| ![Form](screenshots/rlsprivacy.png) | ![Form](rlsprivacy1.png)
 
 ---
 
