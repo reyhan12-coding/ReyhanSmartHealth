@@ -40,7 +40,7 @@ Hal ini karena sistem menganalisis **pola dan tren**, bukan satu data tunggal, d
 
 | **Analisis Mendalam AI** | **Tren Kesehatan** | 
 | :---: | :---: |
-| ![Analisis Mendalam AI](https://github.com/user-attachments/assets/7a06e4ec-80b0-4ad3-b0cf-eeefe966f712) | ![Tren Kesehatan](https://github.com/user-attachments/assets/517d877f-00d7-4ab1-9eac-c38556c0c822) |
+| ![Analisis Mendalam AI](https://github.com/user-attachments/assets/7a06e4ec-80b0-4ad3-b0cf-eeefe966f712) | ![Tren Kesehatan](screenshots/trenkesehatan.png) |
 
 | **Rekomendasi Personal** | |
 | :---: | :---: |
