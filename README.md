@@ -58,14 +58,14 @@ Hal ini karena sistem menganalisis **pola dan tren**, bukan satu data tunggal, d
 
 | **Health Chatbot** | |
 | :---: | :---: |
-| !![Health Chatbot](screenshots/chatbot.png) | |
+| ![Health Chatbot](screenshots/chatbot.png) | |
 
 
 ### 👤 Profil Pengguna
 
 | **User Profile** | |
 | :---: | :---: |
-| !![User Profile](screenshots/profile.png) | |
+| ![User Profile](screenshots/profile.png) | |
 
 ### 🔐 Keamanan Data Pengguna (RLS)
 
